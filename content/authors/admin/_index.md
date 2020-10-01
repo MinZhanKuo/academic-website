@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Min Zhan Kuo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Pharmacist / Master Student of Pharmacology & Toxicology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tzu Chi University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Epigenetics,Cancers and Phytomedicine.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epigenetics
+- Cancers
+- Phytomedicine
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Pharmacology and Toxicology
+    institution: Tzu Chi university
+    year: 2021 (Expected)
+  - course: BSc in Pharmacy
+    institution: Tajen University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
