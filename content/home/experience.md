@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Internship"
+  company = "St.Martin de porres hospital"
+  company_url = "http://www.stm.org.tw/stm_en/"
+  location = "Chiayi City,Taiwan"
+  date_start = "2017-06-30"
+  date_end = "2017-10-06"
+  description = """Undergraduate year training"""
 
 +++
