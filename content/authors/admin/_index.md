@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Min Zhan (Vic) Kuo
+title: Min Zhan Kuo
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student of Pharmacology & Toxicology
+role: Master Student 
+position:Pharmacology & Toxicology
 
 # Organizations/Affiliations
 organizations:
