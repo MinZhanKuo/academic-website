@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: Master Student 
-position:Pharmacology & Toxicology
 
 # Organizations/Affiliations
 organizations:
