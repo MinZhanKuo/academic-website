@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Min Zhan Kuo is a master student of pharmacology and toxicology in the lab of Dr.Tien Yuan Wu at Tzu Chi University, Hualien, Taiwan. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In the Master's program, the epigenetic changes of the Traditional Chinese herbal Medicine in cancer cells were used to screen out potential cancer prevention drugs. And through clinical observation of cancer therapy to do retrospective research to explore potential drug side effects.
