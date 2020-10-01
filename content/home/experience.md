@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  title = "Internship"
+  company = "Hualien Tzu Chi General Hospital"
+  company_url = "https://hlm.tzuchi.com.tw/en-GB/"
+  location = "Hualien,Taiwan"
+  date_start = "2020-08-01"
+  date_end = "2020-08-30"
+  description = """The clinical pharmacist training in Master course"""
   Responsibilities include:
   
   * Analysing
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Internship"
-  company = "St.Martin de porres hospital"
+  company = "St.Martin De Porres Hospital"
   company_url = "http://www.stm.org.tw/stm_en/"
   location = "Chia-yi City,Taiwan"
   date_start = "2017-06-30"
