@@ -25,12 +25,6 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = "2020-08-30"
   description = """The clinical pharmacist training in Master course"""
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "Internship"
