@@ -69,4 +69,7 @@ user_groups:
 
 Min Zhan Kuo is a master student of pharmacology and toxicology in the lab of Dr.Tien Yuan Wu at Tzu Chi University, Hualien, Taiwan. 
 
-In the Master's program, it focus on two items. One is the epigenetic changes of the Traditional Chinese herbal Medicine in cancer cells were used to screen out potential cancer prevention drugs. And the other is through clinical observation of cancer therapy to do retrospective research to explore potential drug side effects.
+In the Master's program, Kuo focus on two items. 
+One is the epigenetic changes of the Traditional Chinese herbal Medicine in cancer cells were used to screen out potential cancer prevention drugs. 
+
+And the other is through clinical observation of cancer therapy to do retrospective research to explore potential drug side effects.
