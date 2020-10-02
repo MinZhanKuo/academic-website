@@ -30,12 +30,10 @@ education:
   courses:
   - course: MSc in Pharmacology and Toxicology
     institution: Tzu Chi university
-    Advisor:Dr.Tien Yuan Wu
-    Thesis:
-    year: 2019-2021 (Expected)
+    year: 2021 (Expected)
   - course: BSc in Pharmacy
     institution: Tajen University
-    year: 2013-2018
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
