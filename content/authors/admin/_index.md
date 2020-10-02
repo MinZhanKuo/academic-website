@@ -24,6 +24,7 @@ interests:
 - Epigenetics
 - Cancers
 - Phytomedicine
+- Targete therapy
 
 education:
   courses:
